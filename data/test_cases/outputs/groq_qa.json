@@ -1,0 +1,380 @@
+{
+  "F01": {
+    "found": true,
+    "answer": "Students should report to the examination hall 30 minutes before the start of each examination.",
+    "page": 2,
+    "grounded": true,
+    "citations": [
+      {
+        "passage": "C1",
+        "quote": "Students should report to the examination hall 30 minutes before the start of each examination.",
+        "verified": true
+      }
+    ],
+    "seconds": 7.87,
+    "error": null
+  },
+  "F02": {
+    "found": true,
+    "answer": "The total intake is 180 seats across all four programmes.",
+    "page": 1,
+    "grounded": true,
+    "citations": [
+      {
+        "passage": "C1",
+        "quote": "The total intake is 180 seats across all four programmes.",
+        "verified": true
+      }
+    ],
+    "seconds": 12.13,
+    "error": null
+  },
+  "F03": {
+    "found": true,
+    "answer": "Applicants must have scored at least 75% marks in the Class XII examination.",
+    "page": 1,
+    "grounded": true,
+    "citations": [
+      {
+        "passage": "C1",
+        "quote": "Applicants must have scored at least 75% marks in the Class XII examination.",
+        "verified": true
+      }
+    ],
+    "seconds": 0.46,
+    "error": null
+  },
+  "F04": {
+    "found": true,
+    "answer": "Each training batch runs for 10 days.",
+    "page": 1,
+    "grounded": true,
+    "citations": [
+      {
+        "passage": "C1",
+        "quote": "Each batch will run for 10 days, with 2-hour sessions every day.",
+        "verified": true
+      }
+    ],
+    "seconds": 0.68,
+    "error": null
+  },
+  "F05": {
+    "found": true,
+    "answer": "The entrance test score carries a 70% weightage in the selection process.",
+    "page": 2,
+    "grounded": true,
+    "citations": [
+      {
+        "passage": "C1",
+        "quote": "Selection will be based on the DIT Entrance Test score (70% weightage) and a personal interview (30% weightage).",
+        "verified": true
+      }
+    ],
+    "seconds": 0.57,
+    "error": null
+  },
+  "D01": {
+    "found": true,
+    "answer": "The end semester examinations start on 24 November 2026.",
+    "page": 1,
+    "grounded": true,
+    "citations": [
+      {
+        "passage": "C1",
+        "quote": "the End Semester Examinations for the odd semester will commence on 24 November 2026",
+        "verified": true
+      }
+    ],
+    "seconds": 1.1,
+    "error": null
+  },
+  "D02": {
+    "found": true,
+    "answer": "The last date to pay the examination fee without a fine is 7 November 2026.",
+    "page": 1,
+    "grounded": true,
+    "citations": [
+      {
+        "passage": "C1",
+        "quote": "The last date for payment of the examination fee without fine is 7 November 2026.",
+        "verified": true
+      }
+    ],
+    "seconds": 0.36,
+    "error": null
+  },
+  "D03": {
+    "found": true,
+    "answer": "The DIT Entrance Test will be held on 7 March 2027.",
+    "page": 2,
+    "grounded": true,
+    "citations": [
+      {
+        "passage": "C1",
+        "quote": "The DIT Entrance Test (DET) will be held on 7 March 2027 at Hyderabad, Bengaluru and Chennai.",
+        "verified": true
+      }
+    ],
+    "seconds": 0.35,
+    "error": null
+  },
+  "D04": {
+    "found": true,
+    "answer": "The last date to submit the online application is 31 December 2026.",
+    "page": 2,
+    "grounded": true,
+    "citations": [
+      {
+        "passage": "C1",
+        "quote": "The last date to submit the online application is 31 December 2026.",
+        "verified": true
+      }
+    ],
+    "seconds": 0.84,
+    "error": null
+  },
+  "D05": {
+    "found": true,
+    "answer": "The last date for payment of the odd semester fees is 31 July 2026.",
+    "page": 1,
+    "grounded": true,
+    "citations": [
+      {
+        "passage": "C1",
+        "quote": "The last date for payment of fees for the odd semester is 31 July 2026.",
+        "verified": true
+      }
+    ],
+    "seconds": 1.2,
+    "error": null
+  },
+  "D06": {
+    "found": true,
+    "answer": "The first training batches will begin on 5 January 2027.",
+    "page": 1,
+    "grounded": true,
+    "citations": [
+      {
+        "passage": "C1",
+        "quote": "The first batches will begin on 5 January 2027.",
+        "verified": true
+      }
+    ],
+    "seconds": 4.5,
+    "error": null
+  },
+  "M01": {
+    "found": true,
+    "answer": "Rs. 1,800 per semester",
+    "page": 1,
+    "grounded": true,
+    "citations": [
+      {
+        "passage": "C1",
+        "quote": "The examination fee for regular students is Rs. 1,800 per semester.",
+        "verified": true
+      }
+    ],
+    "seconds": 6.48,
+    "error": null
+  },
+  "M02": {
+    "found": true,
+    "answer": "The application fee for SC, ST and PwD candidates is Rs. 600.",
+    "page": 1,
+    "grounded": true,
+    "citations": [
+      {
+        "passage": "C1",
+        "quote": "The application fee is Rs. 1,200 for General and OBC candidates and Rs. 600 for SC, ST and PwD candidates.",
+        "verified": true
+      }
+    ],
+    "seconds": 2.89,
+    "error": null
+  },
+  "M03": {
+    "found": true,
+    "answer": "A selected student receives Rs. 25,000 per annum.",
+    "page": 1,
+    "grounded": true,
+    "citations": [
+      {
+        "passage": "C1",
+        "quote": "Selected students will receive Rs. 25,000 per annum for the duration of the course, up to a maximum of four years.",
+        "verified": true
+      }
+    ],
+    "seconds": 8.06,
+    "error": null
+  },
+  "M04": {
+    "found": true,
+    "answer": "The total payable for a hostel resident is Rs. 1,12,000 per semester.",
+    "page": 1,
+    "grounded": true,
+    "citations": [
+      {
+        "passage": "C1",
+        "quote": "The total payable for a hostel resident is Rs. 1,12,000 per semester.",
+        "verified": true
+      }
+    ],
+    "seconds": 4.57,
+    "error": null
+  },
+  "M05": {
+    "found": true,
+    "answer": "The hostel admission fee is Rs. 4,500 (one time, non-refundable).",
+    "page": 1,
+    "grounded": true,
+    "citations": [
+      {
+        "passage": "C1",
+        "quote": "The hostel admission fee is Rs. 4,500 (one time, non-refundable)",
+        "verified": true
+      }
+    ],
+    "seconds": 0.61,
+    "error": null
+  },
+  "A01": {
+    "found": false,
+    "answer": "This information was not found in the document.",
+    "page": null,
+    "grounded": null,
+    "citations": [],
+    "seconds": 6.43,
+    "error": null
+  },
+  "A02": {
+    "found": false,
+    "answer": "This information was not found in the document.",
+    "page": null,
+    "grounded": null,
+    "citations": [],
+    "seconds": 1.76,
+    "error": null
+  },
+  "A03": {
+    "found": false,
+    "answer": "This information was not found in the document.",
+    "page": null,
+    "grounded": null,
+    "citations": [],
+    "seconds": 1.75,
+    "error": null
+  },
+  "A04": {
+    "found": false,
+    "answer": "This information was not found in the document.",
+    "page": null,
+    "grounded": null,
+    "citations": [],
+    "seconds": 0.66,
+    "error": null
+  },
+  "A05": {
+    "found": false,
+    "answer": "This information was not found in the document.",
+    "page": null,
+    "grounded": null,
+    "citations": [],
+    "seconds": 6.75,
+    "error": null
+  },
+  "G01": {
+    "found": true,
+    "answer": "The examination fee for regular students is Rs. 1,800 per semester.",
+    "page": 1,
+    "grounded": true,
+    "citations": [
+      {
+        "passage": "C1",
+        "quote": "The examination fee for regular students is Rs. 1,800 per semester.",
+        "verified": true
+      }
+    ],
+    "seconds": 7.97,
+    "error": null
+  },
+  "G02": {
+    "found": true,
+    "answer": "The deadline to submit the online application is 31 December 2026.",
+    "page": 2,
+    "grounded": true,
+    "citations": [
+      {
+        "passage": "C1",
+        "quote": "The last date to submit the online application is 31 December 2026.",
+        "verified": true
+      }
+    ],
+    "seconds": 6.88,
+    "error": null
+  },
+  "N01": {
+    "found": true,
+    "answer": "The last date for submitting hostel applications is 25 June 2026.",
+    "page": 1,
+    "grounded": true,
+    "citations": [
+      {
+        "passage": "C1",
+        "quote": "The last date for submitting hostel applications is 25 June 2026.",
+        "verified": true
+      }
+    ],
+    "seconds": 5.93,
+    "error": null
+  },
+  "N02": {
+    "found": true,
+    "answer": "Allotted students must report to the Chief Warden's office between 20 July 2026 and 25 July 2026.",
+    "page": 2,
+    "grounded": true,
+    "citations": [
+      {
+        "passage": "C1",
+        "quote": "Students allotted rooms must report to the Chief Warden's office with the allotment letter, two photographs and a medical fitness certificate between 20 July 2026 and 25 July 2026.",
+        "verified": true
+      }
+    ],
+    "seconds": 4.82,
+    "error": null
+  },
+  "N03": {
+    "found": true,
+    "answer": "Registration closes on 20 December 2026.",
+    "page": 1,
+    "grounded": true,
+    "citations": [
+      {
+        "passage": "C1",
+        "quote": "Registration will be open from 1 December 2026 to 20 December 2026.",
+        "verified": true
+      }
+    ],
+    "seconds": 4.46,
+    "error": null
+  },
+  "S01": {
+    "found": false,
+    "answer": "",
+    "page": null,
+    "grounded": null,
+    "seconds": 0,
+    "error": null,
+    "note": "scanned PDF: no text to send"
+  },
+  "S02": {
+    "found": false,
+    "answer": "",
+    "page": null,
+    "grounded": null,
+    "seconds": 0,
+    "error": null,
+    "note": "scanned PDF: no text to send"
+  }
+}

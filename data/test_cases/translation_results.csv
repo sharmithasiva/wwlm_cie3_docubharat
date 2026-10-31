@@ -1,0 +1,31 @@
+id,language,source,translation,numbers_preserved,missing_numbers,target_script_share,seconds
+T01-hin_Deva,Hindi,"The examination fee for regular students is Rs. 1,800 per semester.","नियमित छात्रों के लिए परीक्षा शुल्क 1,800 रुपये प्रति सेमेस्टर है।",True,,1.0,0.663
+T02-hin_Deva,Hindi,The last date for payment of the examination fee without fine is 7 November 2026.,बिना जुर्माने के परीक्षा शुल्क के भुगतान की अंतिम तिथि 7 नवंबर 2026 है।,True,,1.0,0.623
+T03-hin_Deva,Hindi,Students must have a minimum attendance of 75% in each course to be eligible to appear for the examinations.,परीक्षा में बैठने के लिए छात्रों की प्रत्येक पाठ्यक्रम में न्यूनतम 75 प्रतिशत उपस्थिति होनी चाहिए।,True,,1.0,0.741
+T04-hin_Deva,Hindi,The total intake is 180 seats across all four programmes.,चारों कार्यक्रमों में कुल 180 सीटें हैं।,True,,1.0,0.394
+T05-hin_Deva,Hindi,"The DIT Entrance Test (DET) will be held on 7 March 2027 at Hyderabad, Bengaluru and Chennai.","डी. आई. टी. प्रवेश परीक्षा (डी. ई. टी.) 7 मार्च 2027 को हैदराबाद, बेंगलुरु और चेन्नई में आयोजित की जाएगी।",True,,1.0,1.117
+T06-hin_Deva,Hindi,"Selected students will receive Rs. 25,000 per annum for the duration of the course, up to a maximum of four years.","चयनित छात्रों को पाठ्यक्रम की अवधि के लिए अधिकतम चार साल तक प्रति वर्ष 25,000 रुपये मिलेंगे।",True,,1.0,0.66
+T07-hin_Deva,Hindi,"The annual family income from all sources must not exceed Rs. 2,50,000.","सभी स्रोतों से परिवार की वार्षिक आय रु. 2,50,000 से अधिक नहीं होनी चाहिए।",True,,1.0,0.647
+T08-hin_Deva,Hindi,"The total payable for a hostel resident is Rs. 1,12,000 per semester.","एक छात्रावास निवासी के लिए कुल देय प्रति सेमेस्टर रु. 1,12,000 है।",True,,1.0,0.832
+T09-hin_Deva,Hindi,Registration will be open from 1 December 2026 to 20 December 2026.,पंजीकरण 1 दिसंबर 2026 से 20 दिसंबर 2026 तक खुला रहेगा।,True,,1.0,0.916
+T10-hin_Deva,Hindi,Students should report to the examination hall 30 minutes before the start of each examination.,छात्रों को प्रत्येक परीक्षा शुरू होने से 30 मिनट पहले परीक्षा हॉल में जाना चाहिए।,True,,1.0,0.649
+T01-tam_Taml,Tamil,"The examination fee for regular students is Rs. 1,800 per semester.","வழக்கமான மாணவர்களுக்கு தேர்வுக் கட்டணம் செமஸ்டர் ஒன்றுக்கு ரூ. 1,800 ஆகும்.",True,,1.0,0.587
+T02-tam_Taml,Tamil,The last date for payment of the examination fee without fine is 7 November 2026.,"அபராதம் இல்லாமல் தேர்வுக் கட்டணத்தை செலுத்துவதற்கான கடைசி தேதி நவம்பர் 7,2026 ஆகும்.",True,,1.0,0.659
+T03-tam_Taml,Tamil,Students must have a minimum attendance of 75% in each course to be eligible to appear for the examinations.,தேர்வுகளுக்குத் தகுதியான மாணவர்கள் ஒவ்வொரு பாடத்திட்டத்திலும் குறைந்தபட்சம் 75 சதவீதம் வருகை தர வேண்டும்.,True,,1.0,0.691
+T04-tam_Taml,Tamil,The total intake is 180 seats across all four programmes.,நான்கு திட்டங்களிலும் மொத்தம் 180 இடங்கள் உள்ளன.,True,,1.0,0.3
+T05-tam_Taml,Tamil,"The DIT Entrance Test (DET) will be held on 7 March 2027 at Hyderabad, Bengaluru and Chennai.","டிஐடி நுழைவுத் தேர்வு (டிஇடி) 2027 மார்ச் 7 அன்று ஹைதராபாத், பெங்களூரு மற்றும் சென்னையில் நடைபெறும்.",True,,1.0,1.055
+T06-tam_Taml,Tamil,"Selected students will receive Rs. 25,000 per annum for the duration of the course, up to a maximum of four years.","தேர்ந்தெடுக்கப்பட்ட மாணவர்கள் படிப்பின் காலத்திற்கு ஆண்டுக்கு ரூ. 25,000, அதிகபட்சம் நான்கு ஆண்டுகள் வரை பெறுவார்கள்.",True,,1.0,0.916
+T07-tam_Taml,Tamil,"The annual family income from all sources must not exceed Rs. 2,50,000.","அனைத்து மூலங்களிலிருந்தும் வருடாந்திர குடும்ப வருமானம் ரூ. 2,50,000 க்கு மிகாமல் இருக்க வேண்டும்.",True,,1.0,0.829
+T08-tam_Taml,Tamil,"The total payable for a hostel resident is Rs. 1,12,000 per semester.","ஒரு விடுதி குடியிருப்பாளருக்கு செலுத்த வேண்டிய மொத்த தொகை ஒரு செமஸ்டருக்கு ரூ. 1,12,000 ஆகும்.",True,,1.0,0.81
+T09-tam_Taml,Tamil,Registration will be open from 1 December 2026 to 20 December 2026.,பதிவு 1 டிசம்பர் 2026 முதல் 20 டிசம்பர் 2026 வரை திறந்திருக்கும்.,True,,1.0,0.485
+T10-tam_Taml,Tamil,Students should report to the examination hall 30 minutes before the start of each examination.,ஒவ்வொரு தேர்வும் தொடங்குவதற்கு 30 நிமிடங்களுக்கு முன்பு மாணவர்கள் தேர்வு மண்டபத்திற்கு வர வேண்டும்.,True,,1.0,0.619
+T01-ben_Beng,Bengali,"The examination fee for regular students is Rs. 1,800 per semester.","নিয়মিত শিক্ষার্থীদের জন্য পরীক্ষার ফি প্রতি সেমিস্টারে 1,800 টাকা।",True,,1.0,0.557
+T02-ben_Beng,Bengali,The last date for payment of the examination fee without fine is 7 November 2026.,জরিমানা ছাড়াই পরীক্ষার ফি প্রদানের শেষ তারিখ হল 7 নভেম্বর 2026।,True,,1.0,0.513
+T03-ben_Beng,Bengali,Students must have a minimum attendance of 75% in each course to be eligible to appear for the examinations.,পরীক্ষায় অংশ নেওয়ার যোগ্য হওয়ার জন্য শিক্ষার্থীদের প্রতিটি কোর্সে ন্যূনতম 75 শতাংশ উপস্থিতি থাকতে হবে।,True,,1.0,0.596
+T04-ben_Beng,Bengali,The total intake is 180 seats across all four programmes.,চারটি কর্মসূচিতে মোট 180টি আসন রয়েছে।,True,,1.0,0.372
+T05-ben_Beng,Bengali,"The DIT Entrance Test (DET) will be held on 7 March 2027 at Hyderabad, Bengaluru and Chennai.","ডি. আই. টি প্রবেশিকা পরীক্ষা (ডি. ই. টি) 2027 সালের 7ই মার্চ হায়দ্রাবাদ, বেঙ্গালুরু এবং চেন্নাইয়ে অনুষ্ঠিত হবে।",True,,1.0,1.089
+T06-ben_Beng,Bengali,"Selected students will receive Rs. 25,000 per annum for the duration of the course, up to a maximum of four years.","নির্বাচিত শিক্ষার্থীরা কোর্সের সময়কালের জন্য সর্বোচ্চ চার বছর পর্যন্ত প্রতি বছর 25,000 টাকা পাবে।",True,,1.0,0.664
+T07-ben_Beng,Bengali,"The annual family income from all sources must not exceed Rs. 2,50,000.",সমস্ত উৎস থেকে পরিবারের বার্ষিক আয় অবশ্যই 500 টাকার বেশি হতে হবে না।,False,"2,50,000",1.0,0.532
+T08-ben_Beng,Bengali,"The total payable for a hostel resident is Rs. 1,12,000 per semester.","একজন হোস্টেলের বাসিন্দার জন্য প্রতি সেমিস্টারে মোট প্রদেয় টাকা হল 1,12,000।",True,,1.0,0.778
+T09-ben_Beng,Bengali,Registration will be open from 1 December 2026 to 20 December 2026.,রেজিস্ট্রেশন 1 ডিসেম্বর 2026 থেকে 20 ডিসেম্বর 2026 পর্যন্ত খোলা থাকবে।,True,,1.0,0.649
+T10-ben_Beng,Bengali,Students should report to the examination hall 30 minutes before the start of each examination.,প্রতিটি পরীক্ষা শুরু হওয়ার 30 মিনিট আগে শিক্ষার্থীদের পরীক্ষা কেন্দ্রে উপস্থিত হতে হবে।,True,,1.0,0.482

@@ -1,0 +1,16 @@
+[server]
+# Only this computer can open the app; uploaded documents are not exposed on the network.
+address = "localhost"
+# Matches DOCUBHARAT_MAX_UPLOAD_MB; the app also validates size itself.
+maxUploadSize = 10
+
+[browser]
+gatherUsageStats = false
+
+[client]
+# Never show tracebacks or exception messages in the browser; they go to the console only.
+showErrorDetails = "none"
+toolbarMode = "minimal"
+
+[theme]
+primaryColor = "#C2410C"

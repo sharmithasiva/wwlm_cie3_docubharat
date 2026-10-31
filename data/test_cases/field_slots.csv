@@ -1,0 +1,217 @@
+test_id,document,system,slot,expected,matched,relaxed
+X01,exam_circular.pdf,extractive,title,"Conduct of End Semester Examinations, November-December 2026",True,True
+X01,exam_circular.pdf,extractive,organization,Kaveri State University,True,True
+X01,exam_circular.pdf,extractive,reference_number,KSU/COE/2026/41,True,True
+X01,exam_circular.pdf,extractive,date,2026-11-24,True,True
+X01,exam_circular.pdf,extractive,date,2026-11-07,True,True
+X01,exam_circular.pdf,extractive,date,2026-11-14,True,True
+X01,exam_circular.pdf,extractive,date,2026-11-18,True,True
+X01,exam_circular.pdf,extractive,amount,1800,True,True
+X01,exam_circular.pdf,extractive,amount,350,True,True
+X01,exam_circular.pdf,extractive,amount,500,True,True
+X01,exam_circular.pdf,extractive,amount,1000,True,True
+X01,exam_circular.pdf,extractive,email,coe@kaveri-university.example.in,True,True
+X01,exam_circular.pdf,extractive,phone,08212419300,True,True
+X02,admission_notice.pdf,extractive,title,Admission to M.Tech Programmes for the Academic Year 2027-28,True,True
+X02,admission_notice.pdf,extractive,organization,Deccan Institute of Technology,True,True
+X02,admission_notice.pdf,extractive,reference_number,DIT/ADM/2027/03,True,True
+X02,admission_notice.pdf,extractive,date,2027-01-02,True,True
+X02,admission_notice.pdf,extractive,date,2027-02-15,True,True
+X02,admission_notice.pdf,extractive,date,2027-03-07,True,True
+X02,admission_notice.pdf,extractive,date,2027-03-25,True,True
+X02,admission_notice.pdf,extractive,amount,1200,True,True
+X02,admission_notice.pdf,extractive,amount,600,True,True
+X02,admission_notice.pdf,extractive,amount,95000,True,True
+X02,admission_notice.pdf,extractive,email,admissions@dit.example.in,True,True
+X02,admission_notice.pdf,extractive,phone,914023456789,True,True
+X03,scholarship_announcement.pdf,extractive,title,"Merit-cum-Means Scholarship for Undergraduate Students, 2026-27",True,True
+X03,scholarship_announcement.pdf,extractive,organization,Vindhya State Scholarship Board,True,True
+X03,scholarship_announcement.pdf,extractive,reference_number,VSSB/SCH/2026-27/12,True,True
+X03,scholarship_announcement.pdf,extractive,date,2026-11-01,True,True
+X03,scholarship_announcement.pdf,extractive,date,2026-12-31,True,True
+X03,scholarship_announcement.pdf,extractive,date,2027-01-15,True,True
+X03,scholarship_announcement.pdf,extractive,date,2027-02-15,True,True
+X03,scholarship_announcement.pdf,extractive,amount,25000,True,True
+X03,scholarship_announcement.pdf,extractive,amount,5000,True,True
+X03,scholarship_announcement.pdf,extractive,amount,250000,True,True
+X03,scholarship_announcement.pdf,extractive,email,help@vssb.example.gov.in,True,True
+X03,scholarship_announcement.pdf,extractive,phone,18000004455,True,True
+X04,fee_notification.pdf,extractive,title,Fee Structure and Payment Schedule for the Academic Year 2026-27,True,True
+X04,fee_notification.pdf,extractive,organization,Narmada College of Engineering,True,True
+X04,fee_notification.pdf,extractive,reference_number,NCE/ACC/2026/18,True,True
+X04,fee_notification.pdf,extractive,date,2026-07-31,True,True
+X04,fee_notification.pdf,extractive,date,2026-08-20,True,True
+X04,fee_notification.pdf,extractive,date,2026-07-15,True,True
+X04,fee_notification.pdf,extractive,date,2026-08-31,True,True
+X04,fee_notification.pdf,extractive,amount,48000,True,True
+X04,fee_notification.pdf,extractive,amount,6500,True,True
+X04,fee_notification.pdf,extractive,amount,3000,True,True
+X04,fee_notification.pdf,extractive,amount,1500,True,True
+X04,fee_notification.pdf,extractive,amount,32000,True,True
+X04,fee_notification.pdf,extractive,amount,21000,True,True
+X04,fee_notification.pdf,extractive,amount,59000,True,True
+X04,fee_notification.pdf,extractive,amount,112000,True,True
+X04,fee_notification.pdf,extractive,email,accounts@nce.example.ac.in,True,True
+X04,fee_notification.pdf,extractive,phone,07552661450,True,True
+X05,government_notice.pdf,extractive,title,Free Digital Literacy Training Programme for Citizens,True,True
+X05,government_notice.pdf,extractive,organization,Directorate of Digital Services,True,True
+X05,government_notice.pdf,extractive,reference_number,DDS/PN/2026/77,True,True
+X05,government_notice.pdf,extractive,date,2026-12-01,True,True
+X05,government_notice.pdf,extractive,date,2026-12-20,True,True
+X05,government_notice.pdf,extractive,date,2027-01-05,True,True
+X05,government_notice.pdf,extractive,email,digitalskills@vindhya.example.gov.in,True,True
+X05,government_notice.pdf,extractive,phone,18000003366,True,True
+X06,noisy_hostel_notice.pdf,extractive,title,Hostel Allotment for the Academic Year 2026-27,True,True
+X06,noisy_hostel_notice.pdf,extractive,organization,Godavari University,True,True
+X06,noisy_hostel_notice.pdf,extractive,reference_number,GU/DSW/2026/09,True,True
+X06,noisy_hostel_notice.pdf,extractive,date,2026-06-25,True,True
+X06,noisy_hostel_notice.pdf,extractive,date,2026-07-15,True,True
+X06,noisy_hostel_notice.pdf,extractive,date,2026-07-20,True,True
+X06,noisy_hostel_notice.pdf,extractive,date,2026-07-25,True,True
+X06,noisy_hostel_notice.pdf,extractive,amount,4500,True,True
+X06,noisy_hostel_notice.pdf,extractive,amount,38000,True,True
+X06,noisy_hostel_notice.pdf,extractive,email,hostel@godavari.example.edu.in,True,True
+X01,exam_circular.pdf,groq,title,"Conduct of End Semester Examinations, November-December 2026",True,True
+X01,exam_circular.pdf,groq,organization,Kaveri State University,True,True
+X01,exam_circular.pdf,groq,reference_number,KSU/COE/2026/41,False,True
+X01,exam_circular.pdf,groq,date,2026-11-24,True,True
+X01,exam_circular.pdf,groq,date,2026-11-07,True,True
+X01,exam_circular.pdf,groq,date,2026-11-14,True,True
+X01,exam_circular.pdf,groq,date,2026-11-18,True,True
+X01,exam_circular.pdf,groq,amount,1800,True,True
+X01,exam_circular.pdf,groq,amount,350,True,True
+X01,exam_circular.pdf,groq,amount,500,True,True
+X01,exam_circular.pdf,groq,amount,1000,True,True
+X01,exam_circular.pdf,groq,email,coe@kaveri-university.example.in,True,True
+X01,exam_circular.pdf,groq,phone,08212419300,True,True
+X02,admission_notice.pdf,groq,title,Admission to M.Tech Programmes for the Academic Year 2027-28,True,True
+X02,admission_notice.pdf,groq,organization,Deccan Institute of Technology,True,True
+X02,admission_notice.pdf,groq,reference_number,DIT/ADM/2027/03,False,True
+X02,admission_notice.pdf,groq,date,2027-01-02,True,True
+X02,admission_notice.pdf,groq,date,2027-02-15,True,True
+X02,admission_notice.pdf,groq,date,2027-03-07,True,True
+X02,admission_notice.pdf,groq,date,2027-03-25,True,True
+X02,admission_notice.pdf,groq,amount,1200,True,True
+X02,admission_notice.pdf,groq,amount,600,True,True
+X02,admission_notice.pdf,groq,amount,95000,True,True
+X02,admission_notice.pdf,groq,email,admissions@dit.example.in,True,True
+X02,admission_notice.pdf,groq,phone,914023456789,True,True
+X03,scholarship_announcement.pdf,groq,title,"Merit-cum-Means Scholarship for Undergraduate Students, 2026-27",True,True
+X03,scholarship_announcement.pdf,groq,organization,Vindhya State Scholarship Board,True,True
+X03,scholarship_announcement.pdf,groq,reference_number,VSSB/SCH/2026-27/12,False,True
+X03,scholarship_announcement.pdf,groq,date,2026-11-01,True,True
+X03,scholarship_announcement.pdf,groq,date,2026-12-31,True,True
+X03,scholarship_announcement.pdf,groq,date,2027-01-15,True,True
+X03,scholarship_announcement.pdf,groq,date,2027-02-15,True,True
+X03,scholarship_announcement.pdf,groq,amount,25000,True,True
+X03,scholarship_announcement.pdf,groq,amount,5000,True,True
+X03,scholarship_announcement.pdf,groq,amount,250000,True,True
+X03,scholarship_announcement.pdf,groq,email,help@vssb.example.gov.in,True,True
+X03,scholarship_announcement.pdf,groq,phone,18000004455,True,True
+X04,fee_notification.pdf,groq,title,Fee Structure and Payment Schedule for the Academic Year 2026-27,True,True
+X04,fee_notification.pdf,groq,organization,Narmada College of Engineering,True,True
+X04,fee_notification.pdf,groq,reference_number,NCE/ACC/2026/18,True,True
+X04,fee_notification.pdf,groq,date,2026-07-31,True,True
+X04,fee_notification.pdf,groq,date,2026-08-20,True,True
+X04,fee_notification.pdf,groq,date,2026-07-15,True,True
+X04,fee_notification.pdf,groq,date,2026-08-31,True,True
+X04,fee_notification.pdf,groq,amount,48000,True,True
+X04,fee_notification.pdf,groq,amount,6500,True,True
+X04,fee_notification.pdf,groq,amount,3000,True,True
+X04,fee_notification.pdf,groq,amount,1500,True,True
+X04,fee_notification.pdf,groq,amount,32000,True,True
+X04,fee_notification.pdf,groq,amount,21000,True,True
+X04,fee_notification.pdf,groq,amount,59000,True,True
+X04,fee_notification.pdf,groq,amount,112000,True,True
+X04,fee_notification.pdf,groq,email,accounts@nce.example.ac.in,True,True
+X04,fee_notification.pdf,groq,phone,07552661450,True,True
+X05,government_notice.pdf,groq,title,Free Digital Literacy Training Programme for Citizens,True,True
+X05,government_notice.pdf,groq,organization,Directorate of Digital Services,True,True
+X05,government_notice.pdf,groq,reference_number,DDS/PN/2026/77,False,True
+X05,government_notice.pdf,groq,date,2026-12-01,True,True
+X05,government_notice.pdf,groq,date,2026-12-20,True,True
+X05,government_notice.pdf,groq,date,2027-01-05,True,True
+X05,government_notice.pdf,groq,email,digitalskills@vindhya.example.gov.in,True,True
+X05,government_notice.pdf,groq,phone,18000003366,True,True
+X06,noisy_hostel_notice.pdf,groq,title,Hostel Allotment for the Academic Year 2026-27,True,True
+X06,noisy_hostel_notice.pdf,groq,organization,Godavari University,True,True
+X06,noisy_hostel_notice.pdf,groq,reference_number,GU/DSW/2026/09,True,True
+X06,noisy_hostel_notice.pdf,groq,date,2026-06-25,True,True
+X06,noisy_hostel_notice.pdf,groq,date,2026-07-15,True,True
+X06,noisy_hostel_notice.pdf,groq,date,2026-07-20,True,True
+X06,noisy_hostel_notice.pdf,groq,date,2026-07-25,True,True
+X06,noisy_hostel_notice.pdf,groq,amount,4500,True,True
+X06,noisy_hostel_notice.pdf,groq,amount,38000,True,True
+X06,noisy_hostel_notice.pdf,groq,email,hostel@godavari.example.edu.in,True,True
+X01,exam_circular.pdf,patram,title,"Conduct of End Semester Examinations, November-December 2026",False,False
+X01,exam_circular.pdf,patram,organization,Kaveri State University,True,True
+X01,exam_circular.pdf,patram,reference_number,KSU/COE/2026/41,True,True
+X01,exam_circular.pdf,patram,date,2026-11-24,True,True
+X01,exam_circular.pdf,patram,date,2026-11-07,True,True
+X01,exam_circular.pdf,patram,date,2026-11-14,True,True
+X01,exam_circular.pdf,patram,date,2026-11-18,False,False
+X01,exam_circular.pdf,patram,amount,1800,True,True
+X01,exam_circular.pdf,patram,amount,350,True,True
+X01,exam_circular.pdf,patram,amount,500,False,False
+X01,exam_circular.pdf,patram,amount,1000,True,True
+X01,exam_circular.pdf,patram,email,coe@kaveri-university.example.in,False,False
+X01,exam_circular.pdf,patram,phone,08212419300,False,False
+X02,admission_notice.pdf,patram,title,Admission to M.Tech Programmes for the Academic Year 2027-28,False,False
+X02,admission_notice.pdf,patram,organization,Deccan Institute of Technology,True,True
+X02,admission_notice.pdf,patram,reference_number,DIT/ADM/2027/03,False,False
+X02,admission_notice.pdf,patram,date,2027-01-02,True,True
+X02,admission_notice.pdf,patram,date,2027-02-15,True,True
+X02,admission_notice.pdf,patram,date,2027-03-07,True,True
+X02,admission_notice.pdf,patram,date,2027-03-25,True,True
+X02,admission_notice.pdf,patram,amount,1200,True,True
+X02,admission_notice.pdf,patram,amount,600,True,True
+X02,admission_notice.pdf,patram,amount,95000,True,True
+X02,admission_notice.pdf,patram,email,admissions@dit.example.in,True,True
+X02,admission_notice.pdf,patram,phone,914023456789,True,True
+X03,scholarship_announcement.pdf,patram,title,"Merit-cum-Means Scholarship for Undergraduate Students, 2026-27",False,False
+X03,scholarship_announcement.pdf,patram,organization,Vindhya State Scholarship Board,False,False
+X03,scholarship_announcement.pdf,patram,reference_number,VSSB/SCH/2026-27/12,False,False
+X03,scholarship_announcement.pdf,patram,date,2026-11-01,True,True
+X03,scholarship_announcement.pdf,patram,date,2026-12-31,True,True
+X03,scholarship_announcement.pdf,patram,date,2027-01-15,True,True
+X03,scholarship_announcement.pdf,patram,date,2027-02-15,True,True
+X03,scholarship_announcement.pdf,patram,amount,25000,True,True
+X03,scholarship_announcement.pdf,patram,amount,5000,True,True
+X03,scholarship_announcement.pdf,patram,amount,250000,True,True
+X03,scholarship_announcement.pdf,patram,email,help@vssb.example.gov.in,False,False
+X03,scholarship_announcement.pdf,patram,phone,18000004455,False,False
+X04,fee_notification.pdf,patram,title,Fee Structure and Payment Schedule for the Academic Year 2026-27,True,True
+X04,fee_notification.pdf,patram,organization,Narmada College of Engineering,True,True
+X04,fee_notification.pdf,patram,reference_number,NCE/ACC/2026/18,True,True
+X04,fee_notification.pdf,patram,date,2026-07-31,True,True
+X04,fee_notification.pdf,patram,date,2026-08-20,True,True
+X04,fee_notification.pdf,patram,date,2026-07-15,False,False
+X04,fee_notification.pdf,patram,date,2026-08-31,True,True
+X04,fee_notification.pdf,patram,amount,48000,True,True
+X04,fee_notification.pdf,patram,amount,6500,True,True
+X04,fee_notification.pdf,patram,amount,3000,True,True
+X04,fee_notification.pdf,patram,amount,1500,True,True
+X04,fee_notification.pdf,patram,amount,32000,True,True
+X04,fee_notification.pdf,patram,amount,21000,True,True
+X04,fee_notification.pdf,patram,amount,59000,False,False
+X04,fee_notification.pdf,patram,amount,112000,False,False
+X04,fee_notification.pdf,patram,email,accounts@nce.example.ac.in,True,True
+X04,fee_notification.pdf,patram,phone,07552661450,True,True
+X05,government_notice.pdf,patram,title,Free Digital Literacy Training Programme for Citizens,False,False
+X05,government_notice.pdf,patram,organization,Directorate of Digital Services,False,False
+X05,government_notice.pdf,patram,reference_number,DDS/PN/2026/77,False,False
+X05,government_notice.pdf,patram,date,2026-12-01,True,True
+X05,government_notice.pdf,patram,date,2026-12-20,True,True
+X05,government_notice.pdf,patram,date,2027-01-05,True,True
+X05,government_notice.pdf,patram,email,digitalskills@vindhya.example.gov.in,False,False
+X05,government_notice.pdf,patram,phone,18000003366,True,True
+X06,noisy_hostel_notice.pdf,patram,title,Hostel Allotment for the Academic Year 2026-27,False,False
+X06,noisy_hostel_notice.pdf,patram,organization,Godavari University,True,True
+X06,noisy_hostel_notice.pdf,patram,reference_number,GU/DSW/2026/09,True,True
+X06,noisy_hostel_notice.pdf,patram,date,2026-06-25,True,True
+X06,noisy_hostel_notice.pdf,patram,date,2026-07-15,False,False
+X06,noisy_hostel_notice.pdf,patram,date,2026-07-20,True,True
+X06,noisy_hostel_notice.pdf,patram,date,2026-07-25,True,True
+X06,noisy_hostel_notice.pdf,patram,amount,4500,True,True
+X06,noisy_hostel_notice.pdf,patram,amount,38000,True,True
+X06,noisy_hostel_notice.pdf,patram,email,hostel@godavari.example.edu.in,True,True

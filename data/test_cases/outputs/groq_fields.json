@@ -1,0 +1,410 @@
+{
+  "X01": {
+    "items": [
+      [
+        "title",
+        "Conduct of End Semester Examinations, November-December 2026"
+      ],
+      [
+        "issuing_organization",
+        "KAVERI STATE UNIVERSITY"
+      ],
+      [
+        "reference_number",
+        "Circular No. KSU/COE/2026/41"
+      ],
+      [
+        "date_or_deadline",
+        "24 November 2026"
+      ],
+      [
+        "date_or_deadline",
+        "12 December 2026"
+      ],
+      [
+        "date_or_deadline",
+        "5 November 2026"
+      ],
+      [
+        "date_or_deadline",
+        "7 November 2026"
+      ],
+      [
+        "date_or_deadline",
+        "14 November 2026"
+      ],
+      [
+        "fee_or_amount",
+        "Rs. 1,800 per semester"
+      ],
+      [
+        "fee_or_amount",
+        "Rs. 350 per paper"
+      ],
+      [
+        "fee_or_amount",
+        "Rs. 500"
+      ],
+      [
+        "fee_or_amount",
+        "Rs. 1,000"
+      ],
+      [
+        "eligibility",
+        "Students must have a minimum attendance of 75% in each course to be eligible to appear for the examinations"
+      ],
+      [
+        "contact",
+        "coe@kaveri-university.example.in"
+      ],
+      [
+        "contact",
+        "0821-2419-300"
+      ],
+      [
+        "action_item",
+        "Hall tickets will be available for download from the student portal from 18 November 2026"
+      ],
+      [
+        "action_item",
+        "Students must carry the printed hall ticket and their university identity card to every examination"
+      ]
+    ]
+  },
+  "X02": {
+    "items": [
+      [
+        "title",
+        "Admission to M.Tech Programmes for the Academic Year 2027-28"
+      ],
+      [
+        "issuing_organization",
+        "DECCAN INSTITUTE OF TECHNOLOGY"
+      ],
+      [
+        "reference_number",
+        "Notice No. DIT/ADM/2027/03"
+      ],
+      [
+        "eligibility",
+        "Candidates must hold a B.E. or B.Tech degree in a relevant discipline with a minimum of 60% aggregate marks or a CGPA of 6.5 on a 10-point scale. For candidates belonging to SC, ST and PwD categories, the minimum requirement is 55% aggregate marks or a CGPA of 6.0. Candidates in the final year of their degree may also apply, provided they submit proof of passing by 31 July 2027. There is no upper age limit for admission."
+      ],
+      [
+        "date_or_deadline",
+        "2 January 2027"
+      ],
+      [
+        "date_or_deadline",
+        "15 February 2027"
+      ],
+      [
+        "date_or_deadline",
+        "7 March 2027"
+      ],
+      [
+        "date_or_deadline",
+        "25 March 2027"
+      ],
+      [
+        "date_or_deadline",
+        "10 April 2027"
+      ],
+      [
+        "date_or_deadline",
+        "14 April 2027"
+      ],
+      [
+        "fee_or_amount",
+        "Rs. 1,200 for General and OBC candidates and Rs. 600 for SC, ST and PwD candidates"
+      ],
+      [
+        "fee_or_amount",
+        "Rs. 95,000 per year"
+      ],
+      [
+        "contact",
+        "admissions@dit.example.in"
+      ],
+      [
+        "contact",
+        "+91 40 2345 6789"
+      ],
+      [
+        "action_item",
+        "Candidates should apply online through the admissions portal at https://admissions.dit.example.in."
+      ]
+    ]
+  },
+  "X03": {
+    "items": [
+      [
+        "title",
+        "Merit-cum-Means Scholarship for Undergraduate Students, 2026-27"
+      ],
+      [
+        "issuing_organization",
+        "VINDHYA STATE SCHOLARSHIP BOARD"
+      ],
+      [
+        "reference_number",
+        "Notification No. VSSB/SCH/2026-27/12"
+      ],
+      [
+        "date_or_deadline",
+        "1 November 2026"
+      ],
+      [
+        "date_or_deadline",
+        "31 December 2026"
+      ],
+      [
+        "date_or_deadline",
+        "15 January 2027"
+      ],
+      [
+        "date_or_deadline",
+        "15 February 2027"
+      ],
+      [
+        "fee_or_amount",
+        "Rs. 25,000 per annum"
+      ],
+      [
+        "fee_or_amount",
+        "Rs. 5,000 one-time book allowance"
+      ],
+      [
+        "eligibility",
+        "Applicants must be permanent residents of the State of Vindhya. Applicants must have scored at least 75% marks in the Class XII examination. The annual family income from all sources must not exceed Rs. 2,50,000. Students already receiving any other government scholarship are not eligible to apply."
+      ],
+      [
+        "contact",
+        "Helpline: 1800-000-4455 (toll free), email: help@vssb.example.gov.in"
+      ],
+      [
+        "action_item",
+        "Eligible students must register and apply on the State Scholarship Portal at www.vssb.example.gov.in."
+      ]
+    ]
+  },
+  "X04": {
+    "items": [
+      [
+        "title",
+        "Fee Structure and Payment Schedule for the Academic Year 2026-27"
+      ],
+      [
+        "issuing_organization",
+        "NARMADA COLLEGE OF ENGINEERING"
+      ],
+      [
+        "reference_number",
+        "NCE/ACC/2026/18"
+      ],
+      [
+        "date_or_deadline",
+        "1 June 2026"
+      ],
+      [
+        "date_or_deadline",
+        "31 July 2026"
+      ],
+      [
+        "date_or_deadline",
+        "1 August 2026"
+      ],
+      [
+        "date_or_deadline",
+        "20 August 2026"
+      ],
+      [
+        "date_or_deadline",
+        "15 July 2026"
+      ],
+      [
+        "date_or_deadline",
+        "31 August 2026"
+      ],
+      [
+        "fee_or_amount",
+        "Rs. 48,000 per semester"
+      ],
+      [
+        "fee_or_amount",
+        "Rs. 6,500 per semester"
+      ],
+      [
+        "fee_or_amount",
+        "Rs. 3,000 per semester"
+      ],
+      [
+        "fee_or_amount",
+        "Rs. 1,500 per semester"
+      ],
+      [
+        "fee_or_amount",
+        "Rs. 32,000 per semester"
+      ],
+      [
+        "fee_or_amount",
+        "Rs. 21,000 per semester"
+      ],
+      [
+        "fee_or_amount",
+        "Rs. 59,000 per semester"
+      ],
+      [
+        "fee_or_amount",
+        "Rs. 1,12,000 per semester"
+      ],
+      [
+        "fee_or_amount",
+        "Rs. 100 per day"
+      ],
+      [
+        "fee_or_amount",
+        "Rs. 1,000"
+      ],
+      [
+        "eligibility",
+        "Students whose annual family income is below Rs. 1,00,000"
+      ],
+      [
+        "contact",
+        "accounts@nce.example.ac.in"
+      ],
+      [
+        "contact",
+        "0755-2661-450"
+      ],
+      [
+        "action_item",
+        "Students who have not paid their fees by 20 August 2026 will have their registration for the semester cancelled."
+      ],
+      [
+        "action_item",
+        "Students paying by NEFT must upload the transaction receipt on the student portal within three days of payment."
+      ],
+      [
+        "action_item",
+        "Students who withdraw before 31 August 2026 will receive a refund of the tuition fee after deduction of a processing charge of Rs. 1,000."
+      ],
+      [
+        "action_item",
+        "No refund will be given for withdrawals after 31 August 2026."
+      ],
+      [
+        "action_item",
+        "Hostel and mess fees are refundable on a pro-rata basis."
+      ]
+    ]
+  },
+  "X05": {
+    "items": [
+      [
+        "title",
+        "Free Digital Literacy Training Programme for Citizens"
+      ],
+      [
+        "issuing_organization",
+        "DIRECTORATE OF DIGITAL SERVICES"
+      ],
+      [
+        "reference_number",
+        "Public Notice No. DDS/PN/2026/77"
+      ],
+      [
+        "date_or_deadline",
+        "15 November 2026"
+      ],
+      [
+        "date_or_deadline",
+        "1 December 2026"
+      ],
+      [
+        "date_or_deadline",
+        "20 December 2026"
+      ],
+      [
+        "date_or_deadline",
+        "5 January 2027"
+      ],
+      [
+        "fee_or_amount",
+        "no fee"
+      ],
+      [
+        "eligibility",
+        "Residents of the State of Vindhya aged between 18 and 60 years are eligible. Applicants must be able to read in English, Hindi or the regional language. Preference will be given to women, senior citizens and residents of rural areas."
+      ],
+      [
+        "contact",
+        "1800-000-3366"
+      ],
+      [
+        "contact",
+        "digitalskills@vindhya.example.gov.in"
+      ],
+      [
+        "action_item",
+        "Registration will be open from 1 December 2026 to 20 December 2026"
+      ]
+    ]
+  },
+  "X06": {
+    "items": [
+      [
+        "title",
+        "Hostel Allotment for the Academic Year 2026-27"
+      ],
+      [
+        "issuing_organization",
+        "GODAVARI UNIVERSITY"
+      ],
+      [
+        "reference_number",
+        "GU/DSW/2026/09"
+      ],
+      [
+        "date_or_deadline",
+        "25 June 2026"
+      ],
+      [
+        "date_or_deadline",
+        "15 July 2026"
+      ],
+      [
+        "date_or_deadline",
+        "20 July 2026"
+      ],
+      [
+        "date_or_deadline",
+        "25 July 2026"
+      ],
+      [
+        "date_or_deadline",
+        "25 July 2026"
+      ],
+      [
+        "fee_or_amount",
+        "Rs. 4,500"
+      ],
+      [
+        "fee_or_amount",
+        "Rs. 38,000"
+      ],
+      [
+        "contact",
+        "hostel@godavari.example.edu.in"
+      ],
+      [
+        "action_item",
+        "apply through the online portal"
+      ],
+      [
+        "action_item",
+        "report to the Chief Warden's office with the allotment letter, two photographs and a medical fitness certificate"
+      ]
+    ]
+  }
+}

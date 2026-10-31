@@ -1,0 +1,5 @@
+# Installed with --no-deps: indic-nlp-library declares Sphinx documentation tools as
+# runtime dependencies, which inference does not need. Its real runtime needs
+# (pandas, numpy) are already in requirements.txt; morfessor is listed explicitly.
+indic-nlp-library==0.92
+morfessor==2.0.6

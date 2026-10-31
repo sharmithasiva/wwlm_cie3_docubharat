@@ -1,0 +1,6 @@
+# Optional: call BharatGen Patram on your private Hugging Face ZeroGPU Space.
+# Install with:  python -m pip install -r requirements-patram.txt
+# gradio_client 1.14.0 matches the Space's Gradio 5.50.0. It installs huggingface_hub and
+# httpx, and pins websockets < 16 (Streamlit accepts >= 12, < 18). Verified on Windows 11,
+# Python 3.12.10 (2026-10-31).
+gradio_client==1.14.0

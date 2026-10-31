@@ -1,0 +1,13 @@
+# Optional: local AI4Bharat IndicTrans2 translation (CTranslate2, CPU only).
+# The core app does not need these. Install with:
+#   python -m pip install -r requirements-translation.txt
+#   python -m pip install --no-deps -r requirements-translation-nodeps.txt
+# Verified together on Windows 11, Python 3.12.10 (2026-10-29). No PyTorch, no compiler.
+ctranslate2==4.8.4
+sentencepiece==0.2.2
+sacremoses==0.2.0
+# Imported by AI4Bharat's inference engine. Its Perl-based splitter is never called.
+# Its dependency docopt has no wheel but is pure Python (no compiler needed).
+mosestokenizer==1.0.0
+nltk==3.10.4
+regex==2026.9.29

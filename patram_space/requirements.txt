@@ -1,0 +1,11 @@
+# Gradio itself (5.50.0) is installed by the Space from sdk_version in README.md.
+# Patram's model card pins torch 2.7.0 / transformers 4.50.3 / accelerate 0.26.0 / einops 0.8.1.
+# ZeroGPU supports torch >= 2.8.0 only, so torch is the one deliberate deviation.
+torch==2.8.0
+torchvision==0.23.0
+transformers==4.50.3
+# transformers 4.50.3 needs huggingface_hub < 1.0; gradio 5.50.0 accepts >= 0.33.5, < 2.0
+huggingface_hub==0.36.0
+accelerate==0.34.2
+einops==0.8.1
+spaces==0.51.3

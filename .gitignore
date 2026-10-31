@@ -1,0 +1,29 @@
+# Environments and secrets
+.venv/
+venv/
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+*.egg-info/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Downloaded model weights (fetched by scripts/setup_indictrans2.py)
+models/
+
+# Uploaded or generated runtime files
+uploads/
+*.log
+
+# Local tool settings
+.claude/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

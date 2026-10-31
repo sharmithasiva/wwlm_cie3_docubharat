@@ -1,0 +1,226 @@
+{
+  "F01": {
+    "found": true,
+    "answer": "Conduct of Examinations: Students should report to the examination hall 30 minutes before the start of each examination.",
+    "page": 2,
+    "grounded": true,
+    "seconds": 0.004,
+    "error": null
+  },
+  "F02": {
+    "found": true,
+    "answer": "The total intake is 180 seats across all four programmes.",
+    "page": 1,
+    "grounded": true,
+    "seconds": 0.004,
+    "error": null
+  },
+  "F03": {
+    "found": true,
+    "answer": "Applicants must have scored at least 75% marks in the Class XII examination.",
+    "page": 1,
+    "grounded": true,
+    "seconds": 0.004,
+    "error": null
+  },
+  "F04": {
+    "found": false,
+    "answer": "This information was not found in the document.",
+    "page": null,
+    "grounded": null,
+    "seconds": 0.001,
+    "error": null
+  },
+  "F05": {
+    "found": true,
+    "answer": "Selection Procedure: Selection will be based on the DIT Entrance Test score (70% weightage) and a personal interview (30% weightage).",
+    "page": 2,
+    "grounded": true,
+    "seconds": 0.005,
+    "error": null
+  },
+  "D01": {
+    "found": true,
+    "answer": "All Heads of Departments and students of the B.Tech, M.Tech and MBA programmes are hereby informed that the End Semester Examinations for the odd semester will commence on 24 November 2026 and conclude on 12 December 2026.",
+    "page": 1,
+    "grounded": true,
+    "seconds": 0.005,
+    "error": null
+  },
+  "D02": {
+    "found": true,
+    "answer": "Last Dates for Fee Payment: The last date for payment of the examination fee without fine is 7 November 2026.",
+    "page": 1,
+    "grounded": true,
+    "seconds": 0.008,
+    "error": null
+  },
+  "D03": {
+    "found": true,
+    "answer": "The DIT Entrance Test (DET) will be held on 7 March 2027 at Hyderabad, Bengaluru and Chennai.",
+    "page": 2,
+    "grounded": true,
+    "seconds": 0.01,
+    "error": null
+  },
+  "D04": {
+    "found": true,
+    "answer": "The last date to submit the online application is 31 December 2026.",
+    "page": 2,
+    "grounded": true,
+    "seconds": 0.002,
+    "error": null
+  },
+  "D05": {
+    "found": true,
+    "answer": "Payment Schedule: The last date for payment of fees for the odd semester is 31 July 2026.",
+    "page": 1,
+    "grounded": true,
+    "seconds": 0.003,
+    "error": null
+  },
+  "D06": {
+    "found": true,
+    "answer": "The first batches will begin on 5 January 2027.",
+    "page": 1,
+    "grounded": true,
+    "seconds": 0.001,
+    "error": null
+  },
+  "M01": {
+    "found": true,
+    "answer": "Examination Fee: The examination fee for regular students is Rs. 1,800 per semester.",
+    "page": 1,
+    "grounded": true,
+    "seconds": 0.003,
+    "error": null
+  },
+  "M02": {
+    "found": true,
+    "answer": "Application Fee: The application fee is Rs. 1,200 for General and OBC candidates and Rs. 600 for SC, ST and PwD candidates.",
+    "page": 1,
+    "grounded": true,
+    "seconds": 0.003,
+    "error": null
+  },
+  "M03": {
+    "found": true,
+    "answer": "Scholarship Amount: Selected students will receive Rs. 25,000 per annum for the duration of the course, up to a maximum of four years.",
+    "page": 1,
+    "grounded": true,
+    "seconds": 0.003,
+    "error": null
+  },
+  "M04": {
+    "found": true,
+    "answer": "The total payable for a hostel resident is Rs. 1,12,000 per semester.",
+    "page": 1,
+    "grounded": true,
+    "seconds": 0.002,
+    "error": null
+  },
+  "M05": {
+    "found": true,
+    "answer": "The hostel admission fee is Rs. 4,500 (one time, non-refundable) and the annual room rent is Rs. 38,000 , payable before 15 July 2026.",
+    "page": 1,
+    "grounded": true,
+    "seconds": 0.001,
+    "error": null
+  },
+  "A01": {
+    "found": false,
+    "answer": "This information was not found in the document.",
+    "page": null,
+    "grounded": null,
+    "seconds": 0.002,
+    "error": null
+  },
+  "A02": {
+    "found": false,
+    "answer": "This information was not found in the document.",
+    "page": null,
+    "grounded": null,
+    "seconds": 0.002,
+    "error": null
+  },
+  "A03": {
+    "found": true,
+    "answer": "Scholarship Amount: Selected students will receive Rs. 25,000 per annum for the duration of the course, up to a maximum of four years.",
+    "page": 1,
+    "grounded": true,
+    "seconds": 0.003,
+    "error": null
+  },
+  "A04": {
+    "found": false,
+    "answer": "This information was not found in the document.",
+    "page": null,
+    "grounded": null,
+    "seconds": 0.002,
+    "error": null
+  },
+  "A05": {
+    "found": false,
+    "answer": "This information was not found in the document.",
+    "page": null,
+    "grounded": null,
+    "seconds": 0.001,
+    "error": null
+  },
+  "G01": {
+    "found": true,
+    "answer": "Examination Fee: The examination fee for regular students is Rs. 1,800 per semester.",
+    "page": 1,
+    "grounded": true,
+    "seconds": 0.002,
+    "error": null
+  },
+  "G02": {
+    "found": true,
+    "answer": "The last date to submit the online application is 31 December 2026.",
+    "page": 2,
+    "grounded": true,
+    "seconds": 0.001,
+    "error": null
+  },
+  "N01": {
+    "found": true,
+    "answer": "The last date for submitting hostel applications is 25 June 2026.",
+    "page": 1,
+    "grounded": true,
+    "seconds": 0.001,
+    "error": null
+  },
+  "N02": {
+    "found": true,
+    "answer": "Students allotted rooms must report to the Chief Warden's office with the allotment letter, two photographs and a medical fitness certificate between 20 July 2026 and 25 July 2026.",
+    "page": 2,
+    "grounded": true,
+    "seconds": 0.002,
+    "error": null
+  },
+  "N03": {
+    "found": false,
+    "answer": "This information was not found in the document.",
+    "page": null,
+    "grounded": null,
+    "seconds": 0.001,
+    "error": null
+  },
+  "S01": {
+    "found": false,
+    "answer": "This information was not found in the document.",
+    "page": null,
+    "grounded": null,
+    "seconds": 0.0,
+    "error": null
+  },
+  "S02": {
+    "found": false,
+    "answer": "This information was not found in the document.",
+    "page": null,
+    "grounded": null,
+    "seconds": 0.0,
+    "error": null
+  }
+}

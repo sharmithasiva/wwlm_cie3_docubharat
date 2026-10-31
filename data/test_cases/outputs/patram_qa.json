@@ -1,0 +1,282 @@
+{
+  "D02": {
+    "found": true,
+    "answer": "The last date to pay the examination fee without a fine is 7 November 2026.",
+    "page": 1,
+    "grounded": true,
+    "numbers_unverified": [],
+    "seconds": 2.31,
+    "wall_seconds": 18.16,
+    "error": null
+  },
+  "D03": {
+    "found": true,
+    "answer": "The DIT Entrance Test will be held on 7 March 2027.",
+    "page": 2,
+    "grounded": true,
+    "numbers_unverified": [],
+    "seconds": 2.06,
+    "wall_seconds": 16.94,
+    "error": null
+  },
+  "D04": {
+    "found": true,
+    "answer": "The last date to submit the online scholarship application is 31 December 2026.",
+    "page": 2,
+    "grounded": true,
+    "numbers_unverified": [],
+    "seconds": 2.21,
+    "wall_seconds": 14.75,
+    "error": null
+  },
+  "D05": {
+    "found": true,
+    "answer": "The last date for payment of the odd semester fees is 31 July 2026.",
+    "page": 1,
+    "grounded": true,
+    "numbers_unverified": [],
+    "seconds": 1.55,
+    "wall_seconds": 9.92,
+    "error": null
+  },
+  "D06": {
+    "found": true,
+    "answer": "The first training batches will begin on 5 January 2027.",
+    "page": 1,
+    "grounded": true,
+    "numbers_unverified": [],
+    "seconds": 1.48,
+    "wall_seconds": 6.78,
+    "error": null
+  },
+  "M01": {
+    "found": true,
+    "answer": "The examination fee for regular students is Rs. 1,800 per semester.",
+    "page": 1,
+    "grounded": true,
+    "numbers_unverified": [],
+    "seconds": 1.45,
+    "wall_seconds": 6.42,
+    "error": null
+  },
+  "M02": {
+    "found": true,
+    "answer": "The application fee for SC, ST, and PwD candidates is Rs. 600.",
+    "page": 1,
+    "grounded": true,
+    "numbers_unverified": [],
+    "seconds": 1.68,
+    "wall_seconds": 6.57,
+    "error": null
+  },
+  "M03": {
+    "found": true,
+    "answer": "Selected students will receive Rs. 25,000 per annum for the duration of the course, up to a maximum of four years.",
+    "page": 1,
+    "grounded": true,
+    "numbers_unverified": [],
+    "seconds": 1.83,
+    "wall_seconds": 8.09,
+    "error": null
+  },
+  "M04": {
+    "found": true,
+    "answer": "The total payable per semester for a hostel resident is Rs. 1,12,000, which includes Rs. 48,000 for tuition, Rs. 6,500 for development, Rs. 3,000 for library and laboratory, Rs. 32,000 for examination, and Rs. 21,000 for mess advance.",
+    "page": 1,
+    "grounded": true,
+    "numbers_unverified": [],
+    "seconds": 3.25,
+    "wall_seconds": 8.18,
+    "error": null
+  },
+  "M05": {
+    "found": true,
+    "answer": "The hostel admission fee is Rs. 4,500, and it is one time and non-refundable.",
+    "page": 1,
+    "grounded": true,
+    "numbers_unverified": [],
+    "seconds": 1.65,
+    "wall_seconds": 6.04,
+    "error": null
+  },
+  "A01": {
+    "found": true,
+    "answer": "Not explicitly stated in document.",
+    "page": 1,
+    "grounded": true,
+    "numbers_unverified": [],
+    "seconds": 1.17,
+    "wall_seconds": 6.0,
+    "error": null
+  },
+  "A02": {
+    "found": true,
+    "answer": "Not explicitly stated in document.",
+    "page": 1,
+    "grounded": true,
+    "numbers_unverified": [],
+    "seconds": 1.25,
+    "wall_seconds": 9.35,
+    "error": null
+  },
+  "A03": {
+    "found": true,
+    "answer": "Not explicitly stated in document.",
+    "page": 1,
+    "grounded": true,
+    "numbers_unverified": [],
+    "seconds": 1.14,
+    "wall_seconds": 6.07,
+    "error": null
+  },
+  "A04": {
+    "found": true,
+    "answer": "The bus transport fee is Rs. 32,000 per semester, as mentioned in the document.",
+    "page": 1,
+    "grounded": true,
+    "numbers_unverified": [],
+    "seconds": 1.6,
+    "wall_seconds": 6.55,
+    "error": null
+  },
+  "A05": {
+    "found": true,
+    "answer": "Not explicitly stated in document.",
+    "page": 1,
+    "grounded": true,
+    "numbers_unverified": [],
+    "seconds": 1.18,
+    "wall_seconds": 6.98,
+    "error": null
+  },
+  "G01": {
+    "found": true,
+    "answer": "The examination fee for regular students is Rs. 1,800 per semester. Students appearing for supplementary (backlog) papers must pay an additional Rs. 350 per paper.",
+    "page": 1,
+    "grounded": true,
+    "numbers_unverified": [],
+    "seconds": 2.16,
+    "wall_seconds": 7.69,
+    "error": null
+  },
+  "G02": {
+    "found": true,
+    "answer": "The deadline to submit the online application is 31 December 2026.",
+    "page": 2,
+    "grounded": true,
+    "numbers_unverified": [],
+    "seconds": 1.45,
+    "wall_seconds": 7.3,
+    "error": null
+  },
+  "N01": {
+    "found": true,
+    "answer": "The last date for submitting hostel applications is 25 June 2026.",
+    "page": 1,
+    "grounded": true,
+    "numbers_unverified": [],
+    "seconds": 1.41,
+    "wall_seconds": 7.82,
+    "error": null
+  },
+  "N03": {
+    "found": true,
+    "answer": "Registration closes on 20 December 2026.",
+    "page": 1,
+    "grounded": true,
+    "numbers_unverified": [],
+    "seconds": 1.29,
+    "wall_seconds": 19.8,
+    "error": null
+  },
+  "S01": {
+    "found": true,
+    "answer": "The central library will remain open until 10:00 PM.",
+    "page": 1,
+    "grounded": null,
+    "numbers_unverified": [],
+    "seconds": 1.46,
+    "wall_seconds": 9.74,
+    "error": null
+  },
+  "S02": {
+    "found": true,
+    "answer": "Answer: The extended library timings start from 20 November 2026.",
+    "page": 1,
+    "grounded": null,
+    "numbers_unverified": [],
+    "seconds": 1.51,
+    "wall_seconds": 9.36,
+    "error": null
+  },
+  "F01": {
+    "found": true,
+    "answer": "Students should report to the examination hall 30 minutes before the start of each examination.",
+    "page": 2,
+    "grounded": true,
+    "numbers_unverified": [],
+    "seconds": 2.07,
+    "wall_seconds": 23.67,
+    "error": null
+  },
+  "F02": {
+    "found": true,
+    "answer": "The total intake for the M.Tech programmes is 180 seats.",
+    "page": 1,
+    "grounded": true,
+    "numbers_unverified": [],
+    "seconds": 1.46,
+    "wall_seconds": 5.81,
+    "error": null
+  },
+  "F03": {
+    "found": true,
+    "answer": "The required percentage of marks in the Class XII examination is at least 75%.",
+    "page": 1,
+    "grounded": true,
+    "numbers_unverified": [],
+    "seconds": 1.45,
+    "wall_seconds": 8.3,
+    "error": null
+  },
+  "F04": {
+    "found": true,
+    "answer": "Each training batch runs for 10 days, with 2-hour sessions every day.",
+    "page": 1,
+    "grounded": true,
+    "numbers_unverified": [],
+    "seconds": 1.53,
+    "wall_seconds": 6.93,
+    "error": null
+  },
+  "F05": {
+    "found": true,
+    "answer": "The entrance test score carries 70% weightage in the selection process.",
+    "page": 2,
+    "grounded": true,
+    "numbers_unverified": [],
+    "seconds": 1.45,
+    "wall_seconds": 6.01,
+    "error": null
+  },
+  "D01": {
+    "found": true,
+    "answer": "The end semester examinations start on 24 November 2026.",
+    "page": 1,
+    "grounded": true,
+    "numbers_unverified": [],
+    "seconds": 1.4,
+    "wall_seconds": 6.31,
+    "error": null
+  },
+  "N02": {
+    "found": true,
+    "answer": "Allotted students must report to the Chief Warden's office between 20 July 2026 and 25 July 2026.",
+    "page": 2,
+    "grounded": true,
+    "numbers_unverified": [],
+    "seconds": 1.84,
+    "wall_seconds": 9.12,
+    "error": null
+  }
+}

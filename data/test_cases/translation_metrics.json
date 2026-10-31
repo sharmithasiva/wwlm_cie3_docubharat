@@ -1,0 +1,23 @@
+{
+  "model": "AI4Bharat IndicTrans2 distilled En->Indic (CTranslate2 int8, CPU)",
+  "load_seconds": 1.37,
+  "n": 30,
+  "number_preservation": 0.967,
+  "by_language": {
+    "Bengali": {
+      "number_preservation": 0.9,
+      "mean_target_script_share": 1.0,
+      "mean_seconds": 0.623
+    },
+    "Hindi": {
+      "number_preservation": 1.0,
+      "mean_target_script_share": 1.0,
+      "mean_seconds": 0.724
+    },
+    "Tamil": {
+      "number_preservation": 1.0,
+      "mean_target_script_share": 1.0,
+      "mean_seconds": 0.695
+    }
+  }
+}

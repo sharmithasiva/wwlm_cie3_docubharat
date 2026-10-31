@@ -1,0 +1,121 @@
+{
+  "_about": "DocuBharat evaluation set: 40 cases over the 7 synthetic sample documents (data/sample_documents). Ground truth was written from the documents' source text in scripts/make_sample_documents.py; tests/test_evaluation.py checks that every support_text occurs in its document. QA 'must' is a list of groups; every group must be matched by at least one of its alternatives (dates are compared as calendar dates, other values after removing commas, spaces and case).",
+  "qa": [
+    {"id": "F01", "category": "factual", "doc": "exam_circular.pdf", "question": "How many minutes before each examination should students report to the examination hall?", "answerable": true, "must": [["30"]], "support_page": 2, "support_text": "report to the examination hall 30 minutes before the start of each examination"},
+    {"id": "F02", "category": "factual", "doc": "admission_notice.pdf", "question": "How many seats are available in total?", "answerable": true, "must": [["180"]], "support_page": 1, "support_text": "The total intake is 180 seats across all four programmes"},
+    {"id": "F03", "category": "factual", "doc": "scholarship_announcement.pdf", "question": "What percentage of marks is required in the Class XII examination?", "answerable": true, "must": [["75"]], "support_page": 1, "support_text": "scored at least 75% marks in the Class XII examination"},
+    {"id": "F04", "category": "factual", "doc": "government_notice.pdf", "question": "How long does each training batch run?", "answerable": true, "must": [["10 days", "ten days"]], "support_page": 1, "support_text": "Each batch will run for 10 days"},
+    {"id": "F05", "category": "factual", "doc": "admission_notice.pdf", "question": "What weightage does the entrance test score carry in the selection?", "answerable": true, "must": [["70"]], "support_page": 2, "support_text": "DIT Entrance Test score (70% weightage)"},
+
+    {"id": "D01", "category": "date", "doc": "exam_circular.pdf", "question": "When do the end semester examinations start?", "answerable": true, "must": [["24 November 2026"]], "support_page": 1, "support_text": "will commence on 24 November 2026"},
+    {"id": "D02", "category": "date", "doc": "exam_circular.pdf", "question": "What is the last date to pay the examination fee without a fine?", "answerable": true, "must": [["7 November 2026"]], "support_page": 1, "support_text": "without fine is 7 November 2026"},
+    {"id": "D03", "category": "date", "doc": "admission_notice.pdf", "question": "On what date will the DIT Entrance Test be held?", "answerable": true, "must": [["7 March 2027"]], "support_page": 2, "support_text": "will be held on 7 March 2027"},
+    {"id": "D04", "category": "date", "doc": "scholarship_announcement.pdf", "question": "What is the last date to submit the online scholarship application?", "answerable": true, "must": [["31 December 2026"]], "support_page": 2, "support_text": "The last date to submit the online application is 31 December 2026"},
+    {"id": "D05", "category": "date", "doc": "fee_notification.pdf", "question": "What is the last date for payment of the odd semester fees?", "answerable": true, "must": [["31 July 2026"]], "support_page": 1, "support_text": "for the odd semester is 31 July 2026"},
+    {"id": "D06", "category": "date", "doc": "government_notice.pdf", "question": "When will the first training batches begin?", "answerable": true, "must": [["5 January 2027"]], "support_page": 1, "support_text": "The first batches will begin on 5 January 2027"},
+
+    {"id": "M01", "category": "fee", "doc": "exam_circular.pdf", "question": "What is the examination fee for regular students?", "answerable": true, "must": [["1,800"]], "support_page": 1, "support_text": "The examination fee for regular students is Rs. 1,800 per semester"},
+    {"id": "M02", "category": "fee", "doc": "admission_notice.pdf", "question": "What is the application fee for SC, ST and PwD candidates?", "answerable": true, "must": [["600"]], "support_page": 1, "support_text": "Rs. 600 for SC, ST and PwD candidates"},
+    {"id": "M03", "category": "fee", "doc": "scholarship_announcement.pdf", "question": "How much scholarship money does a selected student receive per year?", "answerable": true, "must": [["25,000"]], "support_page": 1, "support_text": "Rs. 25,000 per annum"},
+    {"id": "M04", "category": "fee", "doc": "fee_notification.pdf", "question": "What is the total amount payable per semester by a hostel resident?", "answerable": true, "must": [["1,12,000", "112,000"]], "support_page": 1, "support_text": "The total payable for a hostel resident is Rs. 1,12,000 per semester"},
+    {"id": "M05", "category": "fee", "doc": "noisy_hostel_notice.pdf", "question": "What is the hostel admission fee?", "answerable": true, "must": [["4,500"]], "support_page": 1, "support_text": "The hostel admission fee is Rs. 4,500"},
+
+    {"id": "A01", "category": "absent", "doc": "exam_circular.pdf", "question": "Who is the Vice Chancellor of the university?", "answerable": false, "must": [], "support_page": null, "support_text": null},
+    {"id": "A02", "category": "absent", "doc": "admission_notice.pdf", "question": "What is the hostel fee for M.Tech students?", "answerable": false, "must": [], "support_page": null, "support_text": null},
+    {"id": "A03", "category": "absent", "doc": "scholarship_announcement.pdf", "question": "What is the scholarship amount for postgraduate students?", "answerable": false, "must": [], "support_page": null, "support_text": null},
+    {"id": "A04", "category": "absent", "doc": "fee_notification.pdf", "question": "What is the bus transport fee?", "answerable": false, "must": [], "support_page": null, "support_text": null},
+    {"id": "A05", "category": "absent", "doc": "government_notice.pdf", "question": "How much stipend is paid to participants during the training?", "answerable": false, "must": [], "support_page": null, "support_text": null},
+
+    {"id": "G01", "category": "ambiguous", "doc": "exam_circular.pdf", "question": "What is the fee?", "answerable": true, "must": [["1,800", "350", "500", "1,000"]], "support_page": 1, "support_text": "The examination fee for regular students is Rs. 1,800 per semester", "note": "Several fees exist; any one stated correctly is accepted."},
+    {"id": "G02", "category": "ambiguous", "doc": "scholarship_announcement.pdf", "question": "What is the deadline?", "answerable": true, "must": [["31 December 2026", "15 January 2027"]], "support_page": 2, "support_text": "The last date to submit the online application is 31 December 2026", "note": "Student deadline (31 Dec) or institute verification deadline (15 Jan) are both accepted."},
+
+    {"id": "N01", "category": "noisy", "doc": "noisy_hostel_notice.pdf", "question": "What is the last date for submitting hostel applications?", "answerable": true, "must": [["25 June 2026"]], "support_page": 1, "support_text": "25 June 2026", "note": "Source line is hard-wrapped mid-sentence."},
+    {"id": "N02", "category": "noisy", "doc": "noisy_hostel_notice.pdf", "question": "Between which dates must allotted students report to the Chief Warden's office?", "answerable": true, "must": [["20 July 2026"], ["25 July 2026"]], "support_page": 2, "support_text": "between 20 July 2026", "note": "Hyphenated line breaks and running headers."},
+    {"id": "N03", "category": "noisy", "doc": "government_notice.pdf", "question": "When does registration close?", "answerable": true, "must": [["20 December 2026"]], "support_page": 1, "support_text": "Registration will be open from 1 December 2026 to 20 December 2026", "note": "Paraphrase: 'close' does not occur in the text."},
+
+    {"id": "S01", "category": "scanned", "doc": "scanned_library_notice.pdf", "question": "Until what time will the central library remain open?", "answerable": true, "must": [["10:00 PM", "10 PM", "10.00 PM", "10:00 pm"]], "support_page": 1, "support_text": "from 8:00 AM to 10:00 PM", "note": "Image-only page: no text layer."},
+    {"id": "S02", "category": "scanned", "doc": "scanned_library_notice.pdf", "question": "From which date do the extended library timings start?", "answerable": true, "must": [["20 November 2026"]], "support_page": 1, "support_text": "from 20 November 2026 to 15 December 2026", "note": "Image-only page: no text layer."}
+  ],
+  "fields": [
+    {"id": "X01", "doc": "exam_circular.pdf", "expected": {
+      "title": "Conduct of End Semester Examinations, November-December 2026",
+      "organization": "Kaveri State University",
+      "reference_number": "KSU/COE/2026/41",
+      "dates": ["2026-11-24", "2026-11-07", "2026-11-14", "2026-11-18"],
+      "amounts": [1800, 350, 500, 1000],
+      "emails": ["coe@kaveri-university.example.in"],
+      "phones": ["08212419300"]}},
+    {"id": "X02", "doc": "admission_notice.pdf", "expected": {
+      "title": "Admission to M.Tech Programmes for the Academic Year 2027-28",
+      "organization": "Deccan Institute of Technology",
+      "reference_number": "DIT/ADM/2027/03",
+      "dates": ["2027-01-02", "2027-02-15", "2027-03-07", "2027-03-25"],
+      "amounts": [1200, 600, 95000],
+      "emails": ["admissions@dit.example.in"],
+      "phones": ["914023456789"]}},
+    {"id": "X03", "doc": "scholarship_announcement.pdf", "expected": {
+      "title": "Merit-cum-Means Scholarship for Undergraduate Students, 2026-27",
+      "organization": "Vindhya State Scholarship Board",
+      "reference_number": "VSSB/SCH/2026-27/12",
+      "dates": ["2026-11-01", "2026-12-31", "2027-01-15", "2027-02-15"],
+      "amounts": [25000, 5000, 250000],
+      "emails": ["help@vssb.example.gov.in"],
+      "phones": ["18000004455"]}},
+    {"id": "X04", "doc": "fee_notification.pdf", "expected": {
+      "title": "Fee Structure and Payment Schedule for the Academic Year 2026-27",
+      "organization": "Narmada College of Engineering",
+      "reference_number": "NCE/ACC/2026/18",
+      "dates": ["2026-07-31", "2026-08-20", "2026-07-15", "2026-08-31"],
+      "amounts": [48000, 6500, 3000, 1500, 32000, 21000, 59000, 112000],
+      "emails": ["accounts@nce.example.ac.in"],
+      "phones": ["07552661450"]}},
+    {"id": "X05", "doc": "government_notice.pdf", "expected": {
+      "title": "Free Digital Literacy Training Programme for Citizens",
+      "organization": "Directorate of Digital Services",
+      "reference_number": "DDS/PN/2026/77",
+      "dates": ["2026-12-01", "2026-12-20", "2027-01-05"],
+      "amounts": [],
+      "emails": ["digitalskills@vindhya.example.gov.in"],
+      "phones": ["18000003366"]}},
+    {"id": "X06", "doc": "noisy_hostel_notice.pdf", "expected": {
+      "title": "Hostel Allotment for the Academic Year 2026-27",
+      "organization": "Godavari University",
+      "reference_number": "GU/DSW/2026/09",
+      "dates": ["2026-06-25", "2026-07-15", "2026-07-20", "2026-07-25"],
+      "amounts": [4500, 38000],
+      "emails": ["hostel@godavari.example.edu.in"],
+      "phones": []}}
+  ],
+  "summaries": [
+    {"id": "Y01", "doc": "exam_circular.pdf", "facts": [
+      {"fact": "Exams start 24 Nov 2026", "any": ["24 November 2026"]},
+      {"fact": "Exam fee Rs. 1,800", "any": ["1,800"]},
+      {"fact": "Fee deadline 7 Nov 2026", "any": ["7 November 2026"]},
+      {"fact": "75% attendance required", "any": ["75"]}]},
+    {"id": "Y02", "doc": "admission_notice.pdf", "facts": [
+      {"fact": "Admission to M.Tech programmes", "any": ["M.Tech"]},
+      {"fact": "Application deadline 15 Feb 2027", "any": ["15 February 2027"]},
+      {"fact": "Entrance test 7 Mar 2027", "any": ["7 March 2027"]},
+      {"fact": "Eligibility 60% / CGPA 6.5", "any": ["60", "6.5"]}]},
+    {"id": "Y03", "doc": "scholarship_announcement.pdf", "facts": [
+      {"fact": "Rs. 25,000 per year", "any": ["25,000"]},
+      {"fact": "Income limit Rs. 2,50,000", "any": ["2,50,000", "250,000"]},
+      {"fact": "Apply by 31 Dec 2026", "any": ["31 December 2026"]},
+      {"fact": "75% in Class XII", "any": ["75"]}]},
+    {"id": "Y04", "doc": "fee_notification.pdf", "facts": [
+      {"fact": "Tuition Rs. 48,000 per semester", "any": ["48,000"]},
+      {"fact": "Payment deadline 31 July 2026", "any": ["31 July 2026"]},
+      {"fact": "Late fee Rs. 100 per day", "any": ["100"]},
+      {"fact": "Refund before 31 Aug 2026", "any": ["31 August 2026"]}]},
+    {"id": "Y05", "doc": "government_notice.pdf", "facts": [
+      {"fact": "Free digital literacy training", "any": ["free", "no fee"]},
+      {"fact": "Age 18 to 60", "any": ["18"]},
+      {"fact": "Registration 1-20 Dec 2026", "any": ["20 December 2026", "1 December 2026"]},
+      {"fact": "Batches begin 5 Jan 2027", "any": ["5 January 2027"]}]},
+    {"id": "Y06", "doc": "noisy_hostel_notice.pdf", "facts": [
+      {"fact": "Apply online by 25 June 2026", "any": ["25 June 2026"]},
+      {"fact": "Admission fee Rs. 4,500", "any": ["4,500"]},
+      {"fact": "Room rent Rs. 38,000", "any": ["38,000"]},
+      {"fact": "Report 20-25 July 2026", "any": ["20 July 2026", "25 July 2026"]}]}
+  ]
+}

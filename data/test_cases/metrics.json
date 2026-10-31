@@ -1,0 +1,186 @@
+{
+  "systems": {
+    "extractive": {
+      "qa": {
+        "n": 28,
+        "accuracy": 0.821,
+        "answerable_accuracy": 0.826,
+        "absent_correct_abstention": 0.8,
+        "by_category": {
+          "absent": 0.8,
+          "ambiguous": 1.0,
+          "date": 1.0,
+          "factual": 0.8,
+          "fee": 1.0,
+          "noisy": 0.667,
+          "scanned": 0.0
+        },
+        "failures": {
+          "correct": 19,
+          "missed_answer": 4,
+          "correct_abstention": 4,
+          "hallucinated_answer": 1
+        },
+        "groundedness": 1.0,
+        "groundedness_n": 20
+      },
+      "fields": {
+        "docs": 6,
+        "slot_exact_match_accuracy": 1.0,
+        "slots_matched": 72,
+        "slots_total": 72,
+        "unsupported_dates": 0,
+        "unsupported_amounts": 0,
+        "by_slot": {
+          "amount": 1.0,
+          "date": 1.0,
+          "email": 1.0,
+          "organization": 1.0,
+          "phone": 1.0,
+          "reference_number": 1.0,
+          "title": 1.0
+        },
+        "slot_relaxed_accuracy": 1.0,
+        "by_slot_relaxed": {
+          "amount": 1.0,
+          "date": 1.0,
+          "email": 1.0,
+          "organization": 1.0,
+          "phone": 1.0,
+          "reference_number": 1.0,
+          "title": 1.0
+        }
+      },
+      "summary": {
+        "docs": 6,
+        "fact_coverage": 1.0,
+        "summaries_with_unsupported_numbers": 0
+      }
+    },
+    "groq": {
+      "qa": {
+        "n": 28,
+        "accuracy": 0.929,
+        "answerable_accuracy": 0.913,
+        "absent_correct_abstention": 1.0,
+        "by_category": {
+          "absent": 1.0,
+          "ambiguous": 1.0,
+          "date": 1.0,
+          "factual": 1.0,
+          "fee": 1.0,
+          "noisy": 1.0,
+          "scanned": 0.0
+        },
+        "failures": {
+          "correct": 21,
+          "correct_abstention": 5,
+          "missed_answer": 2
+        },
+        "groundedness": 1.0,
+        "groundedness_n": 21
+      },
+      "fields": {
+        "docs": 6,
+        "slot_exact_match_accuracy": 0.944,
+        "slots_matched": 68,
+        "slots_total": 72,
+        "unsupported_dates": 0,
+        "unsupported_amounts": 0,
+        "by_slot": {
+          "amount": 1.0,
+          "date": 1.0,
+          "email": 1.0,
+          "organization": 1.0,
+          "phone": 1.0,
+          "reference_number": 0.333,
+          "title": 1.0
+        },
+        "slot_relaxed_accuracy": 1.0,
+        "by_slot_relaxed": {
+          "amount": 1.0,
+          "date": 1.0,
+          "email": 1.0,
+          "organization": 1.0,
+          "phone": 1.0,
+          "reference_number": 1.0,
+          "title": 1.0
+        }
+      },
+      "summary": {
+        "docs": 6,
+        "fact_coverage": 0.958,
+        "summaries_with_unsupported_numbers": 0
+      }
+    },
+    "patram": {
+      "qa": {
+        "n": 28,
+        "accuracy": 0.964,
+        "answerable_accuracy": 1.0,
+        "absent_correct_abstention": 0.8,
+        "by_category": {
+          "absent": 0.8,
+          "ambiguous": 1.0,
+          "date": 1.0,
+          "factual": 1.0,
+          "fee": 1.0,
+          "noisy": 1.0,
+          "scanned": 1.0
+        },
+        "failures": {
+          "correct": 23,
+          "correct_abstention": 4,
+          "hallucinated_answer": 1
+        },
+        "groundedness": 1.0,
+        "groundedness_n": 26
+      },
+      "fields": {
+        "docs": 6,
+        "slot_exact_match_accuracy": 0.708,
+        "slots_matched": 51,
+        "slots_total": 72,
+        "unsupported_dates": 0,
+        "unsupported_amounts": 0,
+        "by_slot": {
+          "amount": 0.85,
+          "date": 0.87,
+          "email": 0.5,
+          "organization": 0.667,
+          "phone": 0.6,
+          "reference_number": 0.5,
+          "title": 0.167
+        },
+        "slot_relaxed_accuracy": 0.708,
+        "by_slot_relaxed": {
+          "amount": 0.85,
+          "date": 0.87,
+          "email": 0.5,
+          "organization": 0.667,
+          "phone": 0.6,
+          "reference_number": 0.5,
+          "title": 0.167
+        }
+      },
+      "summary": {
+        "docs": 6,
+        "fact_coverage": 0.875,
+        "summaries_with_unsupported_numbers": 1
+      }
+    }
+  },
+  "retrieval": {
+    "default_500w": {
+      "hit@1": 1.0,
+      "hit@3": 1.0,
+      "n": 21
+    },
+    "small_80w": {
+      "hit@1": 0.952,
+      "hit@3": 1.0,
+      "n": 21
+    }
+  },
+  "notes": []
+}
